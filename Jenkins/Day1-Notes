@@ -98,7 +98,7 @@ https://github.com/Sonal0409/GITHUBJENKINSDEMO
 
 Build Triggers--> Poll SCM --> * * * * *
 
-Build will be generated each time there is a chnage in the repository only.
+Build will be generated each time there is a chnage in the repository only..
 
 
 
