@@ -6,7 +6,7 @@ Install Java 17 or 21
 # sudo su -
  
 # apt update -y
-# apt install openjdk-17-jdk -y
+# apt install openjdk-17-jdk
 
 Install Jenkins:
 
